@@ -1,2 +1,2 @@
 My first readme
-I am Strong
+I am stronger
